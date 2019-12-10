@@ -44,6 +44,7 @@ rero-ils = {editable = true,path = "."}
 invenio-access = "<1.2.0"
 polib = "*"
 xmltodict = "*"
+"invenio-sip2" = {editable = true, git = "https://github.com/lauren-d/invenio-sip2.git"}
 
 [dev-packages]
 Flask-Debugtoolbar = ">=0.10.1"
